@@ -1,6 +1,6 @@
 # Machine Learning
 
-Here I store, document and share my private projects for Machine Learning.
+Here I store, document and share my private projects for Data Science & Machine Learning.
 
 ## Links
 
