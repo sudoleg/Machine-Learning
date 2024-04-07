@@ -30,9 +30,13 @@ Indexing in RAG pipelines involves loading external documents into a retriever f
 
 ### 2. Retrieval
 
-In this step the most relevant docoments based on the question/prompt are retrieved. It's done by performirg a *k-nearest-neighbors search* in the embedding space.
+In this step the most relevant docoments based on the question/prompt are retrieved. It's done by performirg a *k-nearest-neighbors search (KNN)* in the embedding space.
 
 > the parameter `k` determines how many relevant documents should be fetched
+
+### 3. Generation
+
+In this step a prompt is constructed, consisting of the context and a question, where the context contains the retrieved documents. See [visulization](.assets/generation.png).
 
 ## Sources
 
