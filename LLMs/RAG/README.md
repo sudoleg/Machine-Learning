@@ -1,4 +1,4 @@
-# Retrieval Augmented Generation (RAG)
+# My notes on Retrieval Augmented Generation (RAG)
 
 RAG is a process, by which LLMs can access external data, to give the user a more context-appropriate and fact-based response.
 
