@@ -1,12 +1,12 @@
 # Important terms to know
 
-## tokens
+## Tokens
 
 Large language models (sometimes referred to as GPT's) process text using tokens, which are common sequences of characters found in a set of text. The models learn to understand the statistical relationships between these tokens, and excel at producing the next token in a sequence of tokens.
 
 - [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 
-## parameters
+## Parameters
 
 There are different parameters which can be used to control the output produced by a model.
 
@@ -22,6 +22,6 @@ There are different parameters which can be used to control the output produced 
 
 ### controlling determinism
 
-- both top-p and temperatur are used to control the determinism of a model
+- both top-p and temperature are used to control the determinism of a model
 
-![Temperature & Top-P](../LLMs/.assets/temp&top-p.png)
+![Temperature & Top-P](../.assets/temp&top-p.png)
