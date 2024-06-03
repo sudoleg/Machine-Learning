@@ -4,7 +4,7 @@
 
 - R2-Score
 
-## Exercise (Used Cars Prices in UK)
+## Exercise 1 (Used Cars Prices in UK)
 
 - [Link to Data Set on Kaggle](https://www.kaggle.com/datasets/muhammadawaistayyab/used-cars-prices-in-uk)
 
@@ -23,3 +23,7 @@ Used Car Prices in UK Dataset is a comprehensive collection of automotive inform
 - Doors
 - Emission Class
 - Service history
+
+## Parctice (heart disease)
+
+- [Link to dataset on kaggle](https://www.kaggle.com/datasets/mahdifaour/heart-disease-dataset/data)
