@@ -5,3 +5,7 @@
 ## Forbes Billionaires
 
 - [Dataset on Kaggle](https://www.kaggle.com/datasets/sujalluhar/billionaires-listed-in-forbes)
+
+## Parctice (heart disease)
+
+- [Link to dataset on kaggle](https://www.kaggle.com/datasets/mahdifaour/heart-disease-dataset/data)

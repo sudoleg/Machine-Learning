@@ -23,7 +23,3 @@ Used Car Prices in UK Dataset is a comprehensive collection of automotive inform
 - Doors
 - Emission Class
 - Service history
-
-## Parctice (heart disease)
-
-- [Link to dataset on kaggle](https://www.kaggle.com/datasets/mahdifaour/heart-disease-dataset/data)
