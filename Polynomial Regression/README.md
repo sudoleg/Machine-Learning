@@ -6,4 +6,6 @@
 
 ## Practice: diamond prices
 
+> K-fold Cross-validation for linear regression
+
 - [dataset on kaggle](https://www.kaggle.com/datasets/shivam2503/diamonds)
