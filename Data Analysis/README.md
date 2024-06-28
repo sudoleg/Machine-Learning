@@ -9,3 +9,7 @@
 ## Parctice (heart disease)
 
 - [Link to dataset on kaggle](https://www.kaggle.com/datasets/mahdifaour/heart-disease-dataset/data)
+
+## Practice - San Francisco salaries
+
+- [Link to dataset on kaggle](https://www.kaggle.com/datasets/kaggle/sf-salaries)
